@@ -1,0 +1,24 @@
+div{
+    width: 300px;
+    margin: 20% 0 0 30%;
+}
+
+img{
+    border-radius: 100px;
+    height: 150px;
+}
+
+.meil{
+    width: 10px;
+    height: 10px;
+}
+
+.ava{
+    float: left;
+    position: relative;
+}
+
+.user{
+    width: 500px;
+}
+
